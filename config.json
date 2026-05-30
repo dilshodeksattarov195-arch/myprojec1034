@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsuonnect",
+        "uuid": 3123714,
+        "checksum": "zemyje"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
